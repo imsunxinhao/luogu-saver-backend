@@ -61,3 +61,8 @@ coverage
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Other
+
+yarn.lock
+package.lock.json
